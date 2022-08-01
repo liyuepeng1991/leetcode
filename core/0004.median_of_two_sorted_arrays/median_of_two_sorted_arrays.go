@@ -33,5 +33,6 @@ package median_of_two_sorted_arrays
 // 所以，这题可以转化为，如何找到第k小的元素。
 
 func medianOfTwoSortedArrays(nums1, nums2 []int) float64 {
+	
 	return 0.0
 }
